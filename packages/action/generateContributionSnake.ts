@@ -1,10 +1,10 @@
 import { getGithubUserContribution } from "@wagnerjaco/github-user-contribution";
 import { userContributionToGrid } from "./userContributionToGrid";
-import { getBestRoute } from "@snk/solver/getBestRoute";
-import { snake4 } from "@snk/types/__fixtures__/snake";
-import { getPathToPose } from "@snk/solver/getPathToPose";
-import type { DrawOptions as DrawOptions } from "@snk/svg-creator";
-import type { AnimationOptions } from "@snk/gif-creator";
+import { getBestRoute } from "@wagnerjaco//solver/getBestRoute";
+import { snake4 } from "@wagnerjaco//types/__fixtures__/snake";
+import { getPathToPose } from "@wagnerjaco//solver/getPathToPose";
+import type { DrawOptions as DrawOptions } from "@wagnerjaco//svg-creator";
+import type { AnimationOptions } from "@wagnerjaco//gif-creator";
 
 export const generateContributionSnake = async (
   userName: string,
