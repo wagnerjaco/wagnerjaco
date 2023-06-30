@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wagnerjaco/wagnerjaco/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wagnerjaco/wagnerjaco/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
