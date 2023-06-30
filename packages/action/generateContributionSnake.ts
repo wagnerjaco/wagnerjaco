@@ -1,4 +1,4 @@
-import { getGithubUserContribution } from "@snk/github-user-contribution";
+import { getGithubUserContribution } from "@wagnerjaco/github-user-contribution";
 import { userContributionToGrid } from "./userContributionToGrid";
 import { getBestRoute } from "@snk/solver/getBestRoute";
 import { snake4 } from "@snk/types/__fixtures__/snake";
